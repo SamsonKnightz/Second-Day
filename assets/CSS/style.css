@@ -17,3 +17,13 @@ h1 {
     font-size: 80px;
     font-family: 'Courier New', Courier, monospace;
 }
+.first {
+    font-size: large;
+    text-decoration: green underline;
+}
+
+#second {
+
+    font-size: medium;
+    text-decoration: aqua wavy underline;
+}
