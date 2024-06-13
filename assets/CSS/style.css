@@ -12,5 +12,6 @@ h2 {
 
 h1 {
     font-weight: 700;
-    text-decoration: red underline;
+    text-decoration: rgb(211, 15, 123) underline;
+    letter-spacing: 10px;
 }
